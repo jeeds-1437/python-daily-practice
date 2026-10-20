@@ -5,10 +5,10 @@
     print('\n')'''
 
 #NUMBERS - SQUARE PATTERN
-'''for i in range(1,5):
+for i in range(1,5):
     for j in range(1,5):
         print(i,end=' ')
-    print(end='\n')'''
+    print(end='\n')
 
 #INCREASING STAR TRIANGLE
 '''for i in range(1,5):
@@ -105,7 +105,7 @@ for i in range(1,9):
     print()'''
 
 #diamond pattern
-for i in range(1,8):
+'''for i in range(1,8):
     for j in range(1,8):
         if i == 1 and j == 8:
             print('*',end='')
@@ -114,7 +114,7 @@ for i in range(1,8):
         else:
             print('*',end='')
         
-    print()
+    print()'''
         
             
     
